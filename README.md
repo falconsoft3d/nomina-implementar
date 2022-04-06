@@ -10,3 +10,7 @@
 8- Centralización de Nómina.
 9- Exportación de Nómina.
 10- Reportes de contratos.
+11- Vacaciones.
+12- Solicitud de vacaciones.
+13- Certificado de empleados.
+````
